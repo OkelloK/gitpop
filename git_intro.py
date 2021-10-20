@@ -1,2 +1,3 @@
 a ='This is a variable'
-print(a)
+b ='about git'
+print(a, ' ', b)
